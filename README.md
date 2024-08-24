@@ -8,4 +8,4 @@ Please click the below links for more details!
 
 [My publication list on NASA/ADS](https://ui.adsabs.harvard.edu/user/libraries/eTbCTwcQRw2AiHuYEqbSCQ) 
 
-[My CV (available soon!)](https://)
+[My CV](https://codeprey.github.io/file/ZheyuLin_CV.pdf)
