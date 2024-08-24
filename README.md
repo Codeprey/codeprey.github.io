@@ -6,6 +6,6 @@ I am hunting interesting transients and an overseas postdoc position (plan to gr
 
 Please click the below links for more details!
 
-[My publication list on NASA/ADS](https://ui.adsabs.harvard.edu/user/libraries/eTbCTwcQRw2AiHuYEqbSCQ) 
-
 [My CV](https://codeprey.github.io/file/ZheyuLin_CV.pdf)
+
+[My publication list on NASA/ADS](https://ui.adsabs.harvard.edu/user/libraries/eTbCTwcQRw2AiHuYEqbSCQ) 
