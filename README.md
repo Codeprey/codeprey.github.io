@@ -1,6 +1,6 @@
 # Transient hunter.
 
-I just got my PhD in astronomy at the University of Science and Technology of China (USTC).
+I just obtained my PhD degree in astronomy at the University of Science and Technology of China (USTC).
 
 I am joining Laboratoire AstroParticle et Cosmologie (APC) at Paris as a postdoctoral researcher.
 
