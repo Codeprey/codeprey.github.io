@@ -6,6 +6,6 @@ I am joining Laboratoire AstroParticle et Cosmologie (APC) at Paris as a postdoc
 
 Please click the below links for more details!
 
-[My CV](https://codeprey.github.io/file/ZheyuLin_CV.pdf)
+[My CV](https://codeprey.github.io/file/Zheyu_Lin_s_CV&bibliography.pdf)
 
 [My publication list on NASA/ADS](https://ui.adsabs.harvard.edu/user/libraries/eTbCTwcQRw2AiHuYEqbSCQ) 
