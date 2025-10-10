@@ -1,8 +1,9 @@
 # Transient hunter.
 
-I just obtained my PhD degree in astronomy at the University of Science and Technology of China (USTC).
+I am currently a postdoctoral researcher at Laboratoire AstroParticle et Cosmologie (APC) at Paris.
 
-I am joining Laboratoire AstroParticle et Cosmologie (APC) at Paris as a postdoctoral researcher.
+I obtained my bachelor and PhD degree in astronomy at the University of Science and Technology of China (USTC).
+
 
 Please click the below links for more details!
 
