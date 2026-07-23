@@ -7,6 +7,6 @@ I obtained my bachelor and PhD degree in astronomy at the University of Science 
 
 Please click the below links for more details!
 
-[My CV](https://codeprey.github.io/file/Zheyu_Lin_s_CV_bibliography.pdf)
+[My CV (last update: Jul 23 2026)](https://codeprey.github.io/file/Zheyu_Lin_s_CV_bibliography.pdf)
 
-[My publication list on NASA/ADS](https://ui.adsabs.harvard.edu/user/libraries/eTbCTwcQRw2AiHuYEqbSCQ) 
+[My publication list on NASA/ADS (always update)](https://ui.adsabs.harvard.edu/user/libraries/eTbCTwcQRw2AiHuYEqbSCQ) 
